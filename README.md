@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm York Correa La Rosa</h1>
 <h3 align="center">A passionate Test Automation Engineer from Lima - Perú</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yorkcorrealarosa&label=Profile%20views&color=0e75b6&style=flat" alt="yorkcorrealarosa" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yorkcorrealarosa&label=Profile%20views&color=000000&style=flat" alt="yorkcorrealarosa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yorkcorrealarosa" alt="yorkcorrealarosa" /></a> </p>
 
@@ -28,14 +28,18 @@
 <img alt="android" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="60" height="50"/> 
 <img alt="jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="60" height="50"/> 
 <img alt="azure" src="https://api.iconify.design/vscode-icons/file-type-azure.svg" width="60" height="50"/> 
-<img alt="sqlserver" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="60" height="50"/> 
+<img alt="sqlserver" src="https://api.iconify.design/simple-icons/microsoftsqlserver.svg?color=white" width="60" height="50"/> 
 <img alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="50"/> 
 <img alt="mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="50"/> 
 </p>
 
+### Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yorkcorrealarosa&layout=compact)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yorkcorrealarosa&show_icons=true&locale=en&layout=compact" alt="yorkcorrealarosa" /></p>
-
-
+### ⚡Github Stats
 ![York GitHub stats](https://github-readme-stats.vercel.app/api?username=yorkcorrealarosa&theme=dark&show_icons=true&locale=en)
 
+### ⚡Github Streak
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yorkcorrealarosa&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+### 💻 Check Out My Repos ⬇️
