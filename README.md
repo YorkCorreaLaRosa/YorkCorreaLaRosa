@@ -12,7 +12,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<img alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="50"/> 
+<img alt="java" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg width="60" height="50"/> 
 <img alt="selenium" src="https://i.imgur.com/2T4DyO5.png"/>
 <img alt="appium" src="https://api.iconify.design/logos/appium.svg" width="60" height="50"/> 
 <img alt="cucumber" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" width="50" height="50"/> 
