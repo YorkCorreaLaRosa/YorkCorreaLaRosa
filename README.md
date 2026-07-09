@@ -42,13 +42,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YorkCorreaLaRosa&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YorkCorreaLaRosa&layout=compact&theme=dark&hide_border=true)
-
----
-
 ### 🔗 Conecta conmigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yorkcorrea)
