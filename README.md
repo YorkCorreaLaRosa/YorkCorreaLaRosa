@@ -1,10 +1,9 @@
 # Hola, soy York Correa 👋
 
-**Chapter Lead QE | Test Automation Architect | ISTQB® Certified**
+**Chapter Lead QE | Test Automation Architect |
 
-Lidero la estrategia de Quality Engineering en **Banco de Crédito BCP**, donde dirijo a un equipo de 12 QE y diseño frameworks de automatización que escalan la cobertura de pruebas en entornos web, mobile y APIs. Soy también co-fundador de **Novus Technology**, donde formo a la siguiente generación de Quality Engineers hacia roles de arquitectura de automatización.
 
-- 🏦 4+ años de experiencia en Quality Engineering en Fintech y Banca (BCP, Kushki, Yape)
+- 🏦 4+ años de experiencia en Quality Engineering en Fintech y Banca
 - 🧭 Lidero equipos, diseño arquitectura de automatización de pruebas y estrategias de calidad basadas en CI/CD
 - 🛠 Stack actual: **Java, Playwright, Karate DSL, Serenity BDD, Selenium, Cucumber, Rest Assured**
 - ⚙️ CI/CD & DevOps: Jenkins, GitHub Actions, Docker, Azure DevOps
@@ -56,4 +55,4 @@ Lidero la estrategia de Quality Engineering en **Banco de Crédito BCP**, donde 
 
 ---
 
-💬 Siempre abierto a conversar sobre liderazgo en Quality Engineering, arquitectura de automatización de pruebas y escalabilidad de equipos QE.
+💬 Siempre abierto a conversar sobre liderazgo en Quality Engineering, arquitectura de automatización de pruebas.
