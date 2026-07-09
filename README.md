@@ -13,6 +13,14 @@ Lidero la estrategia de Quality Engineering en **Banco de Crédito BCP**, donde 
 
 ---
 
+### 🚀 Proyecto Destacado
+
+**[Playwright-Cucumber-Ts](https://github.com/YorkCorreaLaRosa/Playwright-Cucumber-Ts)** — Framework de automatización E2E con Playwright, Cucumber (BDD) y TypeScript. Incluye sincronización automática de casos de prueba con Azure DevOps y CI/CD dual (GitHub Actions + Azure Pipelines).
+
+![CI](https://github.com/YorkCorreaLaRosa/Playwright-Cucumber-Ts/actions/workflows/playwright.yml/badge.svg)
+
+---
+
 ### 🧰 Tech Stack
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -32,6 +40,13 @@ Lidero la estrategia de Quality Engineering en **Banco de Crédito BCP**, donde 
 ![JIRA](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YorkCorreaLaRosa&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YorkCorreaLaRosa&layout=compact&theme=dark&hide_border=true)
 
 ---
 
