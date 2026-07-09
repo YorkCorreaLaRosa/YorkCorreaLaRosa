@@ -1,53 +1,44 @@
-# Hi there 👋, I'm York Correa La Rosa</h1>
+# Hola, soy York Correa 👋
 
-### Glad to see you here! ![](https://komarev.com/ghpvc/?username=yorkcorrealarosa&label=Profile%20views&color=000000&style=flat)
-I'am a passionate Test Automation Engineer who like to build scalable test automation frameworks and utilities to solve testing and automation problems.
+**Chapter Lead QE | Test Automation Architect | ISTQB® Certified**
 
+Lidero la estrategia de Quality Engineering en **Banco de Crédito BCP**, donde dirijo a un equipo de 12 QE y diseño frameworks de automatización que escalan la cobertura de pruebas en entornos web, mobile y APIs. Soy también co-fundador de **Novus Technology**, donde formo a la siguiente generación de Quality Engineers hacia roles de arquitectura de automatización.
 
-- 🛠 &nbsp; I’m currently working with Java, Selenium, Cucumber, Serenity BDD, Postman, etc.
-- 🚀 &nbsp; I’m currently learning everything 🤣
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/yorkcorrealarosa).
-- 🥅 &nbsp; 2022 Goals: Learn more about mobile automation
-- ⚡ &nbsp; Fun fact: I like to research and read technology topics
+- 🏦 4+ años de experiencia en Quality Engineering en Fintech y Banca (BCP, Kushki, Yape)
+- 🧭 Lidero equipos, diseño arquitectura de automatización de pruebas y estrategias de calidad basadas en CI/CD
+- 🛠 Stack actual: **Java, Playwright, Karate DSL, Serenity BDD, Selenium, Cucumber, Rest Assured**
+- ⚙️ CI/CD & DevOps: Jenkins, GitHub Actions, Docker, Azure DevOps
+- 🎓 Formando a la próxima generación de QE a través de bootcamps en Novus Technology
+- 📈 Impacto reciente: incremento de cobertura de pruebas de 30% a 70%, reduciendo el esfuerzo manual de QA
 
-![](https://github-profile-trophy.vercel.app/?username=yorkcorrealarosa&theme=onestar&margin-w=15)
+---
 
-### Connect with me
+### 🧰 Tech Stack
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/yorkcorrea" target="_blank"><img alt="linkedin" src="https://api.iconify.design/logos/linkedin-icon.svg?width=30&height=30"/></a>
-</p>
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Appium](https://img.shields.io/badge/-Appium-662D91?style=flat-square&logo=appium&logoColor=white)
+![Cucumber](https://img.shields.io/badge/-Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white)
+![Serenity BDD](https://img.shields.io/badge/-Serenity%20BDD-3A3A3A?style=flat-square)
+![Karate DSL](https://img.shields.io/badge/-Karate%20DSL-3A3A3A?style=flat-square)
+![Rest Assured](https://img.shields.io/badge/-Rest%20Assured-3A3A3A?style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![JIRA](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-### 💻 Languages and Tools
-<p align="left"> 
-<img alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="40"/> 
-<img alt="selenium" src="https://i.imgur.com/2T4DyO5.png"/>
-<img alt="appium" src="https://api.iconify.design/logos/appium.svg" width="50" height="40"/> 
-<img alt="cucumber" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" width="50" height="40"/> 
-<img alt="serenity" src="https://imgur.com/yfq67rA.png" width="160" height="40"/> 
-<img alt="maven" src="https://api.iconify.design/vscode-icons/file-type-maven.svg" width="50" height="40"/> 
-<img alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="50" height="40"/> 
-<img alt="github" src="https://api.iconify.design/akar-icons/github-outline-fill.svg?color=white" width="50" height="40"/>
-<img alt="intellij" src="https://api.iconify.design/logos/intellij-idea.svg" width="50" height="40"/> 
-<img alt="postman" src="https://api.iconify.design/logos/postman-icon.svg" width="50" height="40"/> 
-<img alt="jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50" height="40"/> 
-<img alt="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="40"/> 
-<img alt="kibana" src="https://api.iconify.design/logos/kibana.svg" width="50" height="40"/>
-<img alt="android" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="50" height="40"/> 
-<img alt="jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="50" height="40"/> 
-<img alt="azure" src="https://api.iconify.design/vscode-icons/file-type-azure.svg" width="50" height="40"/> 
-<img alt="sqlserver" src="https://api.iconify.design/simple-icons/microsoftsqlserver.svg?color=white" width="50" height="40"/> 
-<img alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="40"/> 
-<img alt="mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="40"/> 
-</p>
+---
 
-### 👨🏻‍💻 Top Languages
-![York Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yorkcorrealarosa&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
+### 🔗 Conecta conmigo
 
-### 📊 Github Stats
-![York GitHub stats](https://github-readme-stats.vercel.app/api?username=yorkcorrealarosa&theme=dark&show_icons=true&locale=en)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yorkcorrea)
 
-### 🔥 Github Streak
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yorkcorrealarosa&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+---
 
-### 💻 Check Out My Repos ⬇️
+💬 Siempre abierto a conversar sobre liderazgo en Quality Engineering, arquitectura de automatización de pruebas y escalabilidad de equipos QE.
