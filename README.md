@@ -1,6 +1,6 @@
 # Hola, soy York Correa 👋
 
-**Chapter Lead QE | Test Automation Architect**
+**Quality Engineering Leader | Test Automation Architect**
 
 
 - 🏦 4+ años de experiencia en Quality Engineering en Fintech y Banca
